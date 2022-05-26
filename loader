@@ -1,1 +1,11 @@
+-- // shit loader by wolfware xd
 
+if game.PlaceId == 8876384197 then
+
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/shawnwolf75/wolfware/main/games/flex-your-sword"))()
+   
+else
+
+   print("universal soon")
+   
+end
